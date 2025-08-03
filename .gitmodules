@@ -13,3 +13,6 @@
 [submodule "LearningSpringORM"]
 	path = LearningSpringORM
 	url = https://github.com/ramakrishnareddy9/LearningSpringORM.git
+[submodule "SpringBootJDBCUsingH2"]
+	path = SpringBootJDBCUsingH2
+	url = https://github.com/ramakrishnareddy9/SpringBootJDBCUsingH2.git
