@@ -1,0 +1,15 @@
+[submodule "LearningSpringCore"]
+	path = LearningSpringCore
+	url = https://github.com/ramakrishnareddy9/LearningSpringCore.git
+[submodule "LearningSpringMVC"]
+	path = LearningSpringMVC
+	url = https://github.com/ramakrishnareddy9/LearningSpringMVC.git
+[submodule "MovingToSpringBootFromSpring"]
+	path = MovingToSpringBootFromSpring
+	url = https://github.com/ramakrishnareddy9/MovingToSpringBootFromSpring.git
+[submodule "LearningSpringJDBC"]
+	path = LearningSpringJDBC
+	url = https://github.com/ramakrishnareddy9/LearningSpringJDBC.git
+[submodule "LearningSpringORM"]
+	path = LearningSpringORM
+	url = https://github.com/ramakrishnareddy9/LearningSpringORM.git
